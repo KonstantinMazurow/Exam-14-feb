@@ -3,7 +3,7 @@
 
 import requests
 
-TOKEN ='6103018803:AAHKXloqXkVsc90ml4lGJzoQPHtvY4ZG6Vw'
+TOKEN =''
 
 BASE_URL = 'http://api.telegram.org/bot' + TOKEN + '/'
 
